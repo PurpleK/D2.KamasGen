@@ -1,1 +1,9 @@
 C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\bin\Debug\D2.KamasGen.exe.config
+C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\bin\Debug\D2.KamasGen.exe
+C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\bin\Debug\D2.KamasGen.pdb
+C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\obj\Debug\D2.KamasGen.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\obj\Debug\D2.KamasGen.Main.resources
+C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\obj\Debug\D2.KamasGen.Properties.Resources.resources
+C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\obj\Debug\D2.KamasGen.csproj.GenerateResource.Cache
+C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\obj\Debug\D2.KamasGen.exe
+C:\Users\Julien\Desktop\Autres\GitHub\PurpleK\D2.KamasGen\Sources\D2.KamasGen\obj\Debug\D2.KamasGen.pdb
